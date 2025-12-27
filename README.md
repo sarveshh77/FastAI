@@ -1,4 +1,4 @@
-# ⚡ Quick AI
+# ⚡ Fast AI
 
 **Quick AI** is a full-stack, web-based **Software as a Service (SaaS)** application built on the **PERN stack**.  
 It provides users with a suite of powerful **AI-driven tools** for content creation and image manipulation — including an **article generator**, **image generator**, **background remover**, and more.
@@ -151,4 +151,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-**Developed with ❤️ by the Quick AI Team**
+**Developed with ❤️ by the Fast AI Team**
